@@ -1,0 +1,6 @@
+{
+    "countries": [
+	{"name": "Russia", "code": 22},
+	{"name": "France", "code": 7}
+    ]
+}
